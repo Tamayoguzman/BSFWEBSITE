@@ -1,0 +1,141 @@
+body {
+  background: url (FB_IMG_1686548768539.jpg)fixed;
+  background: repeat: no repeat;
+  background-size: 1400px 1300px;
+  }
+
+.navbar {
+  height: 50px;
+  width: 100%;
+  background: rgba (0,0,0,0.4);
+  }
+
+.logo {
+  width: 140px;
+  height: auto;
+  padding: 20px 100px;
+  margin-top: 0px;
+  }
+
+.navbar ul {
+  float: right;
+  margin-right: 20px;
+  }
+
+.navbar ul li a{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding: 6px 13px;
+  font-family: sans-serif;
+  transition: 4s;
+  }
+
+. wrapper . center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+  font-family: sans-serif;
+  user-select: none;
+  }
+
+. center h1 {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+  width: 900px;
+  text-align: center;
+  }
+
+. center h2 {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+  width: 885px;
+  margin-top: 10px;
+  text-align: center;
+  
+  . third h3 {
+    color: white;
+    font-size: 40 px;
+    font-weight: bold;
+    width: 200 px;
+    margin-top: 220px;
+    text-align: center;
+    }
+  
+  #p1 {
+    color: Black;
+    font-size: 30px;
+    font-weight: bold;
+    width: 200px;
+    margin-top: 10px;
+    text-align: center;
+    }
+  
+  . fourth h3 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    width: 320px;
+    margin-top: 220px;
+    text-align: center;
+    }
+  
+  #p3 {
+    color: Black;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    text- align: center;
+    }
+  
+  . fifth h3 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    width: 400px;
+    margin-top: 10px;
+    text-align: center;
+    }
+  
+  . six h3 {
+    color: Black;
+    font-size: 40px;
+    font-weight: bold;
+    width: 520px;
+    margin-top: 220px;
+    text-align: center;
+    
+    #p4 {
+      color: Black;
+      font-size: 30px;
+      font-weight: bold;
+      width: 500px;
+      margin-top: 10px;
+      text-align: center;
+      }
+    . buttons button {
+      height: 50px;
+      width: 150px;
+      font-size: 18px;
+      font-weight: bold;
+      color: #ffb3b3;
+      background: red;
+      border: 1px solid #cc0000;
+      outline: none;
+      cursor: pointer;
+      border-radius: 25px;
+      transition: .5s;
+    }
+    
+      . buttons btn {
+        margin-left: 25px;
+        }
+    .buttons button: hover { background: #cc0000;}
+
+
+
+
+
